@@ -1,0 +1,2 @@
+# wDic
+word dictionary
